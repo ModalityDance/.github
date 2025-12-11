@@ -1,4 +1,4 @@
-### Hi~👋
+### Hi ~ 👋
 
 🪐 Welcome to the <strong>Modality Dance Lab</strong>! 🪐
 
