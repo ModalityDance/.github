@@ -2,7 +2,7 @@
 
 🪐 Welcome to **Modality Dance** 🪐
 
-🎯 This is a public space for sharing our research papers, code, and models.  
+🎯 This is a public space for sharing our research papers, code, models, and projects.  
 🎯 We focus on Natural Language Processing and Multimodal Learning, exploring generative AI across different modalities.
 
 <a href='https://liyongqi67.github.io/'><img src='https://img.shields.io/badge/Home-Page-purple' /></a>&nbsp;
